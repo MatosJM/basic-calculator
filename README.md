@@ -6,7 +6,7 @@ Trata-se de uma calculadora que utiliza Socket, onde é possível realizar as qu
 1. Baixar o projeto
 2. Abrir o projeto em uma IDE
 3. Acessar os arquivos \*.java do diretório *./src*
-4. Execultar o servidor **CalculatorBasicServer.java** e em seguida o cliente **CalculatorClient**.
+4. Execultar o servidor **CalculatorBasicServer.java** e em seguida o cliente **CalculatorClient.java**.
 
 ### Layout
 A calculadora oferece um layout basico via terminal para execução das expressões.
