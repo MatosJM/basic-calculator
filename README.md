@@ -8,7 +8,7 @@ Trata-se de uma calculadora que utiliza Socket, onde é possível realizar as qu
 3. Acessar os arquivos \*.java do diretório *./src*
 4. Execultar o servidor **CalculatorBasicServer.java** e em seguida o cliente **CalculatorClient.java**.
 
-### Layout
+## Layout
 A calculadora oferece um layout basico via terminal para execução das expressões.
 
 ~~~
@@ -25,12 +25,14 @@ Resultado: 30
 
 O campo *Expressão* permite qualquer operação dentre as quatro básicas (soma, subtração, multiplicação, divisão).
 
-### Inputs permitidos
-| Tipo | Descrição | Restrição
---------------------
-|Números| Integer, Float ou Double. | Para Floats e Double, o separador decimal deve ser o ponto. Ex.: 20.5, 10.87, 10587.12|
-|Operadores| + - * /| -- |
-|Palavra| *sair* | -- |
+## Entradas permitidas
+
+| Tipo | Descrição |Restrição |
+| :---         |     :---:    | :---: |
+| Números      |  Integer, Float ou Double.   | Para Floats e Double, o separador decimal deve ser o ponto. Ex.: 20.5, 10.87, 10587.12    |
+| Operadores   |  + - * /     |     |
+| Palavra      |  *sair*      |       |
+
 
 O campo *Expressão* permite operações simples e compostas:
 * Operações simples. Exemplos:
